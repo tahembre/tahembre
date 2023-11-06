@@ -1,9 +1,11 @@
 - 👋 Hi, I’m [CTsys]Blue ! 👀
 - 🌱 I’m the noob pretending to know what he is doing. 
-- Been working with python for a few years now, oldschooler from back when a internetspeed og 12.8 Kbit was an amazing revolution when it came to downloading giant files to my 1.5 mb 💾 ! 
+- Been working with python for a few years now, oldschooler from back when a internetspeed and 12.8 Kbit was an amazing revolution when it came to downloading giant files to my 1.5 mb 💾 ! 
 
 - Mainly working with automation and informatics-based systems around both games and websites.
 
+- Currently just fooling around creating SmartHome automation for personal use!
+- 
 - Feel free to reach out or join our Discord:
 - 📫 https://discord.gg/cjnxNvm3nw
 
