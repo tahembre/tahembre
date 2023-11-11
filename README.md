@@ -5,7 +5,7 @@
 - Mainly working with automation and informatics-based systems around both games and websites.
 
 - Currently just fooling around creating SmartHome automation for personal use!
-- 
+  
 - Feel free to reach out or join our Discord:
 - 📫 https://discord.gg/cjnxNvm3nw
 
